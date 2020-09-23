@@ -1,0 +1,22 @@
+{
+  "name": "js30-array-cardio-day2",
+  "version": "1.0.0",
+  "description": "Wes Bos JS30 07 Array Cardio Day2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NikRowe/JS30-ARRAY-CARDIO-DAY2.git"
+  },
+  "author": "Nik Rowe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NikRowe/JS30-ARRAY-CARDIO-DAY2/issues"
+  },
+  "homepage": "https://github.com/NikRowe/JS30-ARRAY-CARDIO-DAY2#readme",
+  "dependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
