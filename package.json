@@ -4,6 +4,8 @@
   "description": "Wes Bos JS30 07 Array Cardio Day2",
   "main": "index.js",
   "scripts": {
+    "start": "npm run lite",
+    "lite": "lite-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
