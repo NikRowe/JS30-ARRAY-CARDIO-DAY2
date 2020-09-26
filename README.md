@@ -1,5 +1,5 @@
 # JS30 Array Cardio Day2
-Excorcise 07 in WesBos' JavaScript30 tutorials. 
+Exercise 07 in WesBos' JavaScript30 tutorials. 
 
 Day 01 methods were for the most part methods I am familiar with from my boot camp. Day 02 methods I have not come across yet, but were fairly self explanatory. This was a nice pace after day 06 Type Ahead which I found to be quite challenging to get my code working for my bonus piece.
 
